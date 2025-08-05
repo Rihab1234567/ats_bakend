@@ -1,0 +1,40 @@
+[
+    
+    
+  
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "salary": "40000 par an",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 2,
+        "title": "App Developer",
+        "salary": "40000Dt par an",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 3,
+        "title": "UI/UX Designer",
+        "salary": "30000 DT par an",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 8,
+        "title": "Web Developer",
+        "salary": "40000 DT par an",
+        "status": "Job Openings",
+        "skills": "Skills"
+    },
+    {
+        "id": 9,
+        "title": "Full Stack Developer",
+        "salary": "40000 DT par an",
+        "status": "Job Openings",
+        "skills": "Skills"
+    }
+]
